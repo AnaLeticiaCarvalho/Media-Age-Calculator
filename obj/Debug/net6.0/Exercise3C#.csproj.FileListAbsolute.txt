@@ -1,0 +1,15 @@
+/home/scarlettlynn/C#/Exercise3C#/bin/Debug/net6.0/Exercise3C#
+/home/scarlettlynn/C#/Exercise3C#/bin/Debug/net6.0/Exercise3C#.deps.json
+/home/scarlettlynn/C#/Exercise3C#/bin/Debug/net6.0/Exercise3C#.runtimeconfig.json
+/home/scarlettlynn/C#/Exercise3C#/bin/Debug/net6.0/Exercise3C#.dll
+/home/scarlettlynn/C#/Exercise3C#/bin/Debug/net6.0/Exercise3C#.pdb
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.csproj.AssemblyReference.cache
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.AssemblyInfoInputs.cache
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.AssemblyInfo.cs
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.csproj.CoreCompileInputs.cache
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.dll
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/refint/Exercise3C#.dll
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.pdb
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/Exercise3C#.genruntimeconfig.cache
+/home/scarlettlynn/C#/Exercise3C#/obj/Debug/net6.0/ref/Exercise3C#.dll
